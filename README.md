@@ -7,6 +7,8 @@
 
 [HPC basics](https://sabryr.github.io/hpc-intro-new/13-scheduler/index.html)
 
+[Abel](images/abel.mp4)
+
 ![On remote](https://sabryr.github.io/hpc-intro-new/fig/login_node.svg)
 
 ![Queue manager in resturent](https://sabryr.github.io/hpc-intro-new/fig/restaurant_queue_manager.svg)
