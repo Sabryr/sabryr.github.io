@@ -7,6 +7,8 @@
 
 [HPC basics](https://sabryr.github.io/hpc-intro-new/13-scheduler/index.html)
 
+![On remote](https://sabryr.github.io/hpc-intro-new/fig/login_node.svg)
+
 ![Queue manager in resturent](https://sabryr.github.io/hpc-intro-new/fig/restaurant_queue_manager.svg)
 
 ### Explain how to set up a saga job script for the program SPAdes (a prepared job script can be showed here). Please explain what the various options mean.
