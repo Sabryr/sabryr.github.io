@@ -4,7 +4,9 @@
 (time frame: max 20 minutes)
 
 ### Explain briefly how slurm works. Include concepts such as queue, cpus, threads,  slurm job script, etc. 
+
 [HPC basics] (https://sabryr.github.io/hpc-intro-new/13-scheduler/index.html)
+
 ![Queue manager in resturent] (https://sabryr.github.io/hpc-intro-new/fig/restaurant_queue_manager.svg)
 
 ### Explain how to set up a saga job script for the program SPAdes (a prepared job script can be showed here). Please explain what the various options mean.
