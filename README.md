@@ -7,7 +7,7 @@
 
 [HPC basics](https://sabryr.github.io/hpc-intro-new/13-scheduler/index.html)
 
-[Abel](images/abel.mp4)
+[Abel](https://www.youtube.com/watch?v=Hjf5t26TeDQ)
 
 ![On remote](https://sabryr.github.io/hpc-intro-new/fig/login_node.svg)
 
