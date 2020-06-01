@@ -14,11 +14,9 @@
 ![Queue manager in resturent](https://sabryr.github.io/hpc-intro-new/fig/restaurant_queue_manager.svg)
 
 ### Explain how to set up a saga job script for the program SPAdes
-#### Find out
-     1. Difference Illumina,  IonTorre, PacBio, Oxford Nanopore and Sanger reads. 
-     2. Paired-end reads,
-     3. mate-pairs 
-     4. unpaired reads.
+# Download data
+  - Illumina HiSeq  paired-end reads from E.coliO104:H4(strain TY-2482)(ENA SRR292770) 
+  - https://www.ebi.ac.uk/ena/data/view/SRR292770&display=html
 
 
 ### Please include a discussion on commands that can be used to monitor a slurm job, and slurm commands that can be used to diagnose if we have allocated resources correctly.
