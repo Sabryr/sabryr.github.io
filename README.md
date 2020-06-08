@@ -83,11 +83,14 @@ ssh <compute_node>
 ## Task 2: Show and explain a larger coding project in which you have played a significant role (time frame: 20 minutes)
 
 Possible projects:
+[Publication list](https://scholar.google.com/citations?user=3nSAUFsAAAAJ)
 
-1. [AUS 1, R/Fortran/Bash](https://github.com/Sabryr/Pmetrics_test)
-2. [Bigsync bash](https://github.com/Sabryr/bigsync)
-3. [Big File transfer bash](https://github.com/Sabryr/Transfer_scripts)
-4. [Tavtar Pythn/Bash/Google-scripting](https://github.com/Sabryr/Tavatar)
+1. [EGDMS Java/Javascript/SQL/Python](https://github.com/Sabryr/EGDMS)
+   1. [eGenVar](http://bigr.medisin.ntnu.no/data/eGenVar/home.html)
+2. [AUS 1, R/Fortran/Bash](https://github.com/Sabryr/Pmetrics_test)
+3. [Bigsync bash](https://github.com/Sabryr/bigsync)
+4. [Big File transfer bash](https://github.com/Sabryr/Transfer_scripts)
+5. [Tavtar Pythn/Bash/Google-scripting](https://github.com/Sabryr/Tavatar)
 
 
 ### The coding team, and who did what
