@@ -15,13 +15,13 @@
 
 ### Explain how to set up a saga job script for the program SPAdes
 #### SPAdes 
-  - [SPAdes manual](http://cab.spbu.ru/files/release3.14.1/manual.html)
+     - [SPAdes manual](http://cab.spbu.ru/files/release3.14.1/manual.html)
 
 #### data
- - /cluster/software/SPAdes/3.14.1-GCC-8.3.0-Python-3.7.4/share/spades/test_dataset
+     - /cluster/software/SPAdes/3.14.1-GCC-8.3.0-Python-3.7.4/share/spades/test_dataset
 
 #### Job script
-
+     - [Saga documentation] (https://documentation.sigma2.no/jobs/job_scripts/saga_job_scripts.html)
 ```
 #!/bin/bash
 
