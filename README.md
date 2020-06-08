@@ -14,13 +14,13 @@
 ![Queue manager in resturent](https://sabryr.github.io/hpc-intro-new/fig/restaurant_queue_manager.svg)
 
 ### Explain how to set up a saga job script for the program SPAdes
-## SPAdes 
+#### SPAdes 
   - [SPAdes manual](http://cab.spbu.ru/files/release3.14.1/manual.html)
 
-## data
+#### data
  - /cluster/software/SPAdes/3.14.1-GCC-8.3.0-Python-3.7.4/share/spades/test_dataset
 
-#Job script
+#### Job script
 
 ```
 #!/bin/bash
@@ -64,7 +64,15 @@ spades.py --pe1-1 "${DATA_DIR}/ecoli_1K_1.fq.gz" \
 ```
 {: .bash}
 
-### Please include a discussion on commands that can be used to monitor a slurm job, and slurm commands that can be used to diagnose if we have allocated resources correctly.
+### How to monitor jobs  
+Please include a discussion on commands that can be used to monitor a slurm job,   
+and slurm commands that can be used to diagnose if we have allocated resources correctly.
+
+```
+scontrol show job <JOBID>
+```
+{: .bash}
+
 
 
 
