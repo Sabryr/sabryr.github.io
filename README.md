@@ -83,8 +83,12 @@ ssh <compute_node>
 ## Task 2: Show and explain a larger coding project in which you have played a significant role (time frame: 20 minutes)
 
 Possible projects:
-https://github.com/Sabryr/bigsync
-https://github.com/Sabryr/Transfer_scripts
+
+1. [AUS 1, R/Fortran/Bash](https://github.com/Sabryr/Pmetrics_test)
+2. [Bigsync bash](https://github.com/Sabryr/bigsync)
+3. [Big File transfer bash](https://github.com/Sabryr/Transfer_scripts)
+4. [Tavtar Pythn/Bash/Google-scripting](https://github.com/Sabryr/Tavatar)
+
 
 ### The coding team, and who did what
 ### The problem that the code was supposed to solve
