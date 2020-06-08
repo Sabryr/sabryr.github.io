@@ -14,11 +14,10 @@
 ![Queue manager in resturent](https://sabryr.github.io/hpc-intro-new/fig/restaurant_queue_manager.svg)
 
 ### Explain how to set up a saga job script for the program SPAdes
-# SPAdes 
-  - http://cab.spbu.ru/files/release3.14.1/manual.html
-  - Data https://mra.asm.org/content/9/11/e00169-20
+## SPAdes 
+  - [SPAdes manual](http://cab.spbu.ru/files/release3.14.1/manual.html)
 
-#data
+## data
  - /cluster/software/SPAdes/3.14.1-GCC-8.3.0-Python-3.7.4/share/spades/test_dataset
 
 #Job script
