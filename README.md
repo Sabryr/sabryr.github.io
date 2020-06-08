@@ -1,6 +1,6 @@
 
 
-## Task 1: How does slurm work, and how to use it for spades 
+# Task 1: How does slurm work, and how to use it for spades 
 (time frame: max 20 minutes)
 
 ### Explain briefly how slurm works. Include concepts such as queue, cpus, threads,  slurm job script, etc. 
@@ -15,13 +15,14 @@
 
 ### Explain how to set up a saga job script for the program SPAdes
 #### SPAdes 
-     - [SPAdes manual](http://cab.spbu.ru/files/release3.14.1/manual.html)
+[SPAdes manual](http://cab.spbu.ru/files/release3.14.1/manual.html)
 
 #### data
-     - /cluster/software/SPAdes/3.14.1-GCC-8.3.0-Python-3.7.4/share/spades/test_dataset
+/cluster/software/SPAdes/3.14.1-GCC-8.3.0-Python-3.7.4/share/spades/test_dataset
 
 #### Job script
-     - [Saga documentation] (https://documentation.sigma2.no/jobs/job_scripts/saga_job_scripts.html)
+[Saga documentation] (https://documentation.sigma2.no/jobs/job_scripts/saga_job_scripts.html)
+
 ```
 #!/bin/bash
 
@@ -64,17 +65,19 @@ spades.py --pe1-1 "${DATA_DIR}/ecoli_1K_1.fq.gz" \
 ```
 {: .bash}
 
+
 ### How to monitor jobs  
 Please include a discussion on commands that can be used to monitor a slurm job,   
 and slurm commands that can be used to diagnose if we have allocated resources correctly.
 
 ```
+squeue -u $USER
 scontrol show job <JOBID>
+sacct -j  <JOBID>
+ssh <compute_node>
+
 ```
 {: .bash}
-
-
-
 
 
 ## Task 2: Show and explain a larger coding project in which you have played a significant role (time frame: 20 minutes)
